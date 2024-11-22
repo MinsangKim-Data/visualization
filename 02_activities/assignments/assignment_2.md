@@ -11,6 +11,8 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did. How could this data visualization have been improved?  
       ```
+      Examples taken from https://datavizproject.com
+      
      - GOOD:
      I have selected an example of a good data visualization as a proportional tree chart (square). It is good because you can quickly compare and contrast the proportions relative to each other as the squares are located side by side. In addition, some color contrast between the squares makes it easy to visually differentiate between the squares. This format works well for datasets with a manageable number of categories. Each square occupies its space without overlapping or creating visual clutter. This simplistic, clean grid-like layout aligns with the principles of minalism and keeps the focus on the data itself. The data visualization can be improved with labels to provide context and perhaps some interactivity can be added so some more specific information or data can be shown without sacrificing simplicity. Maybe this can be improved my playing around with different color scales to improve color contrast, yet without confusing the viwer.
 
