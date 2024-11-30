@@ -6,19 +6,17 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
-        Your answer...
 
+        - GOOD example: The proportional tree chart is relatively accessible because its clean, minimalistic design reduces cognitive load. The use of side-by-side squares with contrasting colors enables quick comparisons, making it user-friendly for most audiences, including those with color vision deficiencies, if appropriate color scales are used  It is reproducible because the format is straightforward and can be generated using standard visualization libraries like matplotlib or ggplot.  In terms of equity, this chart effectively avoids overrepresentation or underrepresentation of categories. However, the lack of labels or context might disproportionately exclude audiences who are less familiar with the data domain.
 
+        - BAD example: The multi-level donut chart is not particularly accessible due to its complexity. The concentric rings require viewers to decipher multiple hierarchies simultaneously, which can overwhelm users and make small segments difficult to interpret. This is particularly problematic for individuals with visual impairments or those unfamiliar with advanced visualizations. It is moderately reproducible, as most visualization libraries (e.g., D3.js, Tableau) can generate this format; however, achieving clarity requires significant effort. In terms of equity, this chart can marginalize data segments of smaller size, making it difficult to communicate their importance, especially when segments are visually compressed into narrow slices.
 
-        ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
-        Your answer...
+    
+        - GOOD example: To enhance accessibility, the addition of text labels within or adjacent to the squares would make the chart understandable for a wider audience. Including a legend and ensuring high-contrast color schemes would further improve usability for individuals with visual impairments. Reproducibility could be bolstered by using open-source tools and providing code snippets to enable replication. To address equity, interactivity could allow users to delve deeper into categories, reducing reliance on prior knowledge while still maintaining simplicity.
 
+        - BAD example: To improve accessibility, replacing the multi-level donut chart with a treemap or a sunburst chart would offer a more linear and intuitive representation of hierarchical data. These formats reduce visual clutter and allow audiences to follow the data’s flow naturally. High-contrast colors and accessible legends could also aid interpretation. For reproducibility, guidelines and annotated code samples for creating an alternative visualization (e.g., treemaps) should be shared. Finally, ensuring equity requires presenting all data segments proportionally and incorporating interactivity to reveal details about smaller segments, empowering viewers to understand the dataset comprehensively without bias.
 
-
-        ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
