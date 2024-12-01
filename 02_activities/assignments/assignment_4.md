@@ -27,6 +27,8 @@
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
+
+![Image of Heatmmap](C:\Users\minsa\visualization\02_activities\assignments\heatmap_redlight.png)
  
 ### Why am I doing this assignment?:  
 - This ongoing assignment ensures active participation in the course, and assesses the learning outcomes: 
