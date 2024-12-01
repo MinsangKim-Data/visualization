@@ -8,12 +8,15 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    
     I utilized Python seaborn library and Tableau.
 
     > Who is your intended audience? 
+    
     My intended audience includes city planners, transportation engineers, and policymakers, but also the general public.
 
     > What information or message are you trying to convey with your visualization? 
+    
     The Seaborn bar plot is designed to show the annual trends in red light infractions across different wards. It highlights whether infractions are increasing or decreasing over time, helping stakeholders track the effectiveness of traffic safety measures or enforcement campaigns.
     
     The Tableau interactive dashboard provides users with a detailed look at infractions by ward and year, allowing them to filter data and explore the relationship between specific wards and the frequency of red light violations. This tool helps viewers identify high-incidence areas and can be used to prioritize enforcement or policy changes.
@@ -49,7 +52,7 @@
     For the Seaborn heatmap, the 'underwtaer labour' involved data cleaning, particularly handling missing values, ensuring data consistency, and aggregating the red light infractions by ward and year. Additionally, I spent time choosing the right color palette to ensure the heatmap was both informative and accessible.
 
     In Tableau, I spent significant time designing the interactive dashboard. This involved setting up filters, designing tooltips, and adjusting the layout for a clean user interface. I also spent time optimizing the dashboard for performance, ensuring that it loads efficiently even when users filter through large datasets.
-    
+
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
 
