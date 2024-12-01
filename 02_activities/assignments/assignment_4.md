@@ -60,6 +60,8 @@
 ![Image of bar graph](bar_graph_tableau.png)
 
 Source: https://open.toronto.ca/dataset/red-light-camera-annual-charges/ 
+Appendix: Heatmap code: C:\Users\minsa\visualization\02_activities\assignments\redlight_notebook.ipynb
+        bar graph interactive dashboard: Not public
  
 ### Why am I doing this assignment?:  
 - This ongoing assignment ensures active participation in the course, and assesses the learning outcomes: 
